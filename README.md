@@ -2,7 +2,7 @@
 
 Proyecto que muestra la actividad entregada sobre la creacion de una tarjeta de presentacion.
 
-## ARCHIVOS 
+## Archivos Contenidos:
 
 *HTML
 *CSS
